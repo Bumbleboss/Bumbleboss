@@ -1,6 +1,6 @@
 ### Hello there!
 
-Just an Engineering university student who does graphic design and software development.<br>
+Just an engineering university student who does graphic design and software development.<br>
 Feel free to browse my creative work on my [portfolio](https://bumbleboss.xyz), otherwise, do enjoy looking my repositories.
 
 #### Stats for nerds:
