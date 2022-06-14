@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a graphics designer and developer that strives to create a refined meaningful product.<br>
+I am a graphic designer and developer that strives to create a refined meaningful product.<br>
 Feel free to browse my professional work on my [portfolio](https://bumbleboss.xyz), otherwise, do enjoy looking at my repositories.
 
 #### For nerds:
