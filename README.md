@@ -1,8 +1,6 @@
 ### Hello!
 
-I am Mohsen, but you can call me Bumbleboss; that’s my online nickname.</br>
-Product Designer, Frontend Engineer, and academically a Mechatronics Engineer. </br>
-Occasionally a gamer and binge-watcher though.
+I am Mohsen, but you can call me Bumbleboss. I work as a Product Designer / Frontend Engineer, sometimes both. When not working, I can be found gaming and binge-watching TV shows.
 
 Feel free to browse my published work on my [portfolio](https://bumbleboss.xyz), otherwise, do enjoy looking at my repositories.
 
