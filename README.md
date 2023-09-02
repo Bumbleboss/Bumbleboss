@@ -1,6 +1,6 @@
 ### Hello!
 
-I am Mohsen, but you can call me Bumbleboss. I work as a Product Designer / Frontend Engineer, sometimes both. When not working, I can be found gaming and binge-watching TV shows.
+I am Mohsen, but you can call me Bumbleboss. I work as a Product Designer / Front-end Engineer, sometimes both. When not working, I can be found gaming and binge-watching TV shows.
 
 Feel free to browse my published work on my [portfolio](https://bumbleboss.xyz), otherwise, do enjoy looking at my repositories.
 
