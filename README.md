@@ -9,9 +9,11 @@ Just some nice stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
-
-No activity tracked
+JavaScript       464 hrs 19 mins ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
+Java             269 hrs 40 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
+CSS              231 hrs 54 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+HTML             226 hrs 21 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Vue.js           154 hrs 7 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
 ```
 
 <!--END_SECTION:waka-->
