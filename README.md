@@ -4,7 +4,7 @@ Feel free to browse my published work on my [portfolio](https://bumbleboss.xyz),
 
 ---
 
-Wakatime All Time Activity
+Wakatime Monthly Activity
 
 <!--START_SECTION:waka-->
 
