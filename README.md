@@ -14,11 +14,11 @@ WakaTime Monthly Activity
 <!--START_SECTION:waka-->
 
 ```txt
-Python        29 hrs 40 mins  █████████████████▒░░░░░░░   69.56 %
-SCSS          6 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Vue.js        2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Markdown      2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-C++           1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Python        29 hrs 40 mins  ████████████████░░░░░░░░░   64.10 %
+SCSS          7 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+Vue.js        3 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Markdown      2 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+C++           55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
