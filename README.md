@@ -14,11 +14,11 @@ WakaTime Monthly Activity
 <!--START_SECTION:waka-->
 
 ```txt
-TeX                2 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
-JavaScript         1 hr 59 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-Python             1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-Other              1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-YAML               1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+TeX                2 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
+JavaScript         1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+Python             1 hr 18 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+Other              1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+YAML               1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
 ```
 
 <!--END_SECTION:waka-->
