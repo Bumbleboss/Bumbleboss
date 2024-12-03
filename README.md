@@ -14,9 +14,7 @@ WakaTime Monthly Activity
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         8 mins          █████████████████▒░░░░░░░   69.33 %
-SCSS         2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-TypeScript   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
