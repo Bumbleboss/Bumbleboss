@@ -14,7 +14,11 @@ WakaTime Monthly Activity
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         31 mins         █████████████▓░░░░░░░░░░░   55.10 %
+Markdown     12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+TeX          6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Vue.js       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
