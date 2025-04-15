@@ -11,7 +11,11 @@ WakaTime Monthly Activity
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+XML          2 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   29.04 %
+YAML         2 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
+Bash         1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+Python       1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Markdown     53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
 ```
 
 <!--END_SECTION:waka-->
