@@ -11,7 +11,11 @@ WakaTime Monthly Activity
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Git Config   2 mins          ████████████▒░░░░░░░░░░░░   48.99 %
+Markdown     1 min           █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+Other        1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+YAML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Bash         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
