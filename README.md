@@ -11,11 +11,11 @@ WakaTime Monthly Activity
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   2 mins          ████████████▒░░░░░░░░░░░░   48.99 %
-Markdown     1 min           █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-Other        1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
-YAML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Bash         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+TypeScript       57 mins         ███████████████▒░░░░░░░░░   61.94 %
+JavaScript       20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+Markdown         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JSON             3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Git Config       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
