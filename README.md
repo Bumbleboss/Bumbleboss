@@ -11,11 +11,11 @@ WakaTime Monthly Activity
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         38 hrs 17 mins  ████████████▒░░░░░░░░░░░░   49.94 %
-XML                19 hrs 48 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.84 %
-Python             6 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
-SCSS               5 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-textmate           2 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+TypeScript         38 hrs 21 mins  █████████████░░░░░░░░░░░░   51.70 %
+XML                20 hrs 13 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.26 %
+Python             5 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+SCSS               3 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+textmate           2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
