@@ -11,11 +11,11 @@ WakaTime Monthly Activity
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           45 hrs 37 mins        ████████████████▒░░░░░░░░   65.43 %
-TypeScript       11 hrs 38 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-Vue              6 hrs 40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Python           2 hrs                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-JSON             1 hr 23 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Vue.js           45 hrs 37 mins        ████████████████▓░░░░░░░░   66.80 %
+TypeScript       11 hrs 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+Vue              6 hrs 11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+Python           1 hr 37 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+JSON             1 hr 24 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
